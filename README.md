@@ -1,3 +1,3 @@
 # Survey Sez
 ## ITC250 Survey App
-### Craig Peterson
+### Developer: Craig Peterson
