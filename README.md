@@ -1,2 +1,3 @@
-# itc250_surveysez
-ITC250 Survey App
+# Survey Sez
+## ITC250 Survey App
+### Craig Peterson
